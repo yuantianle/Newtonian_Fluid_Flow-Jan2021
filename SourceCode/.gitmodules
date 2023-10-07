@@ -1,0 +1,18 @@
+[submodule "extern/JFS"]
+	path = extern/JFS
+	url = git@github.com:jackm97/JFS.git
+[submodule "extern/GLR"]
+	path = extern/GLR
+	url = git@github.com:jackm97/GLR.git
+[submodule "extern/imgui"]
+	path = extern/imgui
+	url = https://github.com/ocornut/imgui.git
+[submodule "extern/stb"]
+	path = extern/stb
+	url = https://github.com/nothings/stb.git
+[submodule "extern/ImGuiFileDialog"]
+	path = extern/ImGuiFileDialog
+	url = https://github.com/jackm97/ImGuiFileDialog.git
+[submodule "extern/AudioFile"]
+	path = extern/AudioFile
+	url = https://github.com/adamstark/AudioFile.git
